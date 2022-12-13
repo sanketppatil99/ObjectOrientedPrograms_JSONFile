@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TCS",
+    "NumberofShare": "10",
+    "price": "100"
+  },
+  {
+    "name": "IBM",
+    "NumberofShare": "20",
+    "price": "200"
+  },
+  {
+    "name": "LNT",
+    "NumberofShare": "30",
+    "price": "300"
+  }
+]
